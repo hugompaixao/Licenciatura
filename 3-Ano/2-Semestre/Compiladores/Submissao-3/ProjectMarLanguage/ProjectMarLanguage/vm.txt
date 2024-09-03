@@ -1,0 +1,27 @@
+Constant pool:
+<0: STRING "!">
+<1: STRING "Mau ">
+<2: STRING "!">
+<3: STRING "Hello ">
+<4: STRING "Maria">
+Generated assembly code:
+0: Global 0
+1: JUMP
+2: CONST 0
+3: STORE null
+4: CONST 1
+5: CONCAT
+6: CONCAT
+8: CONST 2
+9: STORE null
+10: CONST 3
+11: CONCAT
+12: CONCAT
+13: STORE null
+14: PRINT_S
+15: CALL
+16: STORE null
+17: PRINT_S
+18: CALL
+19: CONST 4
+20: HALT

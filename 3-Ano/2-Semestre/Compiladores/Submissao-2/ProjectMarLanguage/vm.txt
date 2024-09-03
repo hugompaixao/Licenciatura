@@ -1,0 +1,26 @@
+Constant pool:
+<0: STRING "test">
+<1: STRING "e">
+<2: NUMBER 5.0>
+<3: NUMBER 7.0>
+<4: NUMBER 5.0>
+<5: NUMBER 7.0>
+<6: NUMBER 5.0>
+<7: NUMBER 7.0>
+Generated assembly code:
+0: CONST 0
+1: CONST 1
+2: CONCAT
+3: PRINT_S
+4: CONST 2
+5: CONST 3
+6: GEQ
+7: PRINT_N
+8: CONST 4
+9: CONST 5
+10: LT
+11: PRINT_N
+12: CONST 6
+13: CONST 7
+14: LEQ
+15: PRINT_N

@@ -1,0 +1,18 @@
+string mau( string s ) {
+   string s2;
+   s2 = "!";
+   return "Mau " + s + s2;
+}
+
+hello( string s ) {
+   string s1;
+   string s2;
+   s2 = "!";
+   s1 = "Hello " + s + s2;
+   print s1;
+   s = mau(s);
+   print s;
+}
+
+// main program starts below
+hello("Maria");
