@@ -1,0 +1,1000 @@
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+acarlos pires,55
+amaria oliveira,75
+afrancisca gomes,68,hipertensao
+arute carvalho,39,oebesidade
+aisabel rocha,73
+ajose antonio silva,78,diabetes
+aabel manuel fonseca,62
+arui melo,45,obesidade,insuficiencia hepatica
+apedro castro,67,insuficiencia renal,obesidade,hipertensao
+anicolau sousa,72
+ajoao jose lopes,81,diabetes
+arita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+acarlos pires,55
+amaria oliveira,75
+afrancisca gomes,68,hipertensao
+arute carvalho,39,oebesidade
+aisabel rocha,73
+ajose antonio silva,78,diabetes
+aabel manuel fonseca,62
+arui melo,45,obesidade,insuficiencia hepatica
+apedro castro,67,insuficiencia renal,obesidade,hipertensao
+anicolau sousa,72
+ajoao jose lopes,81,diabetes
+arita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+acarlos pires,55
+amaria oliveira,75
+afrancisca gomes,68,hipertensao
+arute carvalho,39,oebesidade
+aisabel rocha,73
+ajose antonio silva,78,diabetes
+aabel manuel fonseca,62
+arui melo,45,obesidade,insuficiencia hepatica
+apedro castro,67,insuficiencia renal,obesidade,hipertensao
+anicolau sousa,72
+ajoao jose lopes,81,diabetes
+arita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+acarlos pires,55
+amaria oliveira,75
+afrancisca gomes,68,hipertensao
+arute carvalho,39,oebesidade
+aisabel rocha,73
+ajose antonio silva,78,diabetes
+aabel manuel fonseca,62
+arui melo,45,obesidade,insuficiencia hepatica
+apedro castro,67,insuficiencia renal,obesidade,hipertensao
+anicolau sousa,72
+ajoao jose lopes,81,diabetes
+arita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+acarlos pires,55
+amaria oliveira,75
+afrancisca gomes,68,hipertensao
+arute carvalho,39,oebesidade
+aisabel rocha,73
+ajose antonio silva,78,diabetes
+aabel manuel fonseca,62
+arui melo,45,obesidade,insuficiencia hepatica
+apedro castro,67,insuficiencia renal,obesidade,hipertensao
+anicolau sousa,72
+ajoao jose lopes,81,diabetes
+arita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+acarlos pires,55
+amaria oliveira,75
+afrancisca gomes,68,hipertensao
+arute carvalho,39,oebesidade
+aisabel rocha,73
+ajose antonio silva,78,diabetes
+aabel manuel fonseca,62
+arui melo,45,obesidade,insuficiencia hepatica
+apedro castro,67,insuficiencia renal,obesidade,hipertensao
+anicolau sousa,72
+ajoao jose lopes,81,diabetes
+arita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+carlos pires,55
+maria oliveira,75
+francisca gomes,68,hipertensao
+rute carvalho,39,oebesidade
+isabel rocha,73
+jose antonio silva,78,diabetes
+abel manuel fonseca,62
+rui melo,45,obesidade,insuficiencia hepatica
+pedro castro,67,insuficiencia renal,obesidade,hipertensao
+nicolau sousa,72
+joao jose lopes,81,diabetes
+rita cunha,58,obesidade,diabetes,hipertensao
+

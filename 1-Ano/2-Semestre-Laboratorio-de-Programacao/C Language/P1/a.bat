@@ -1,0 +1,1 @@
+gcc -Wall a.c our_ints.c our_doubles.c
